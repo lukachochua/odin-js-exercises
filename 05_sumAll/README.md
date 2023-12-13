@@ -15,3 +15,7 @@ Think about how you would do this on pen and paper and then how you might transl
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
 - return the sum after finishing the loop
+
+<!-- 
+ვიცი უდიდესი და უმცირესი ციფრი. უნდა შევკრიბო ყველა ციფრი რომელიც მათ შორისაა, უმცირესის და უდიდესის ჩათვლით. 
+იმისთვის, რომ სასურველ შედეგს მივაღწიო, უნდა მინიმალურ ციფრს უნდა დავუმატო ერთი, მანამ სანამ უდიდეს ციფრს არ მივაღწევთ.  -->
